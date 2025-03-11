@@ -1,0 +1,5 @@
+Running on device: cuda
+tensor([[ 0.0900, -0.3745, -0.3894],
+        [ 0.5913,  0.3176,  0.2595],
+        [-1.1682,  1.8978,  1.8145]], device='cuda:0')
+Job completed successfully
